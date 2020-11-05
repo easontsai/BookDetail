@@ -1,0 +1,1286 @@
+2020-10-31 00:27:09.625  INFO 33638 --- [main] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 33638 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 00:27:09.630 DEBUG 33638 --- [main] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 00:27:09.630  INFO 33638 --- [main] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 00:27:10.842  WARN 33638 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 00:27:11.921  INFO 33638 --- [main] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.578 seconds (JVM running for 3.117)
+2020-10-31 00:28:23.267  INFO 33647 --- [main] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 33647 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 00:28:23.269 DEBUG 33647 --- [main] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 00:28:23.270  INFO 33647 --- [main] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 00:28:24.452  WARN 33647 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 00:28:25.494  INFO 33647 --- [main] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.491 seconds (JVM running for 3.105)
+2020-10-31 00:53:14.104  INFO 33688 --- [main] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 33688 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 00:53:14.106 DEBUG 33688 --- [main] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 00:53:14.106  INFO 33688 --- [main] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 00:53:15.251  WARN 33688 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 00:53:16.280  INFO 33688 --- [main] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.424 seconds (JVM running for 3.08)
+2020-10-31 00:53:26.108  WARN 33688 --- [http-nio-8080-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required int parameter 'page' is not present]
+2020-10-31 00:53:53.002  INFO 33701 --- [main] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 33701 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 00:53:53.004 DEBUG 33701 --- [main] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 00:53:53.004  INFO 33701 --- [main] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 00:53:54.204  WARN 33701 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 00:53:55.254  INFO 33701 --- [main] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.557 seconds (JVM running for 3.139)
+2020-10-31 00:54:10.274  INFO 33708 --- [main] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 33708 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 00:54:10.275 DEBUG 33708 --- [main] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 00:54:10.276  INFO 33708 --- [main] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 00:54:11.416  WARN 33708 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 00:54:12.438  INFO 33708 --- [main] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.438 seconds (JVM running for 3.005)
+2020-10-31 00:58:16.905  INFO 33719 --- [main] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 33719 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 00:58:16.907 DEBUG 33719 --- [main] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 00:58:16.907  INFO 33719 --- [main] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 00:58:18.069  WARN 33719 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 00:58:19.100  INFO 33719 --- [main] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.468 seconds (JVM running for 2.963)
+2020-10-31 01:01:02.117  INFO 33737 --- [main] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 33737 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 01:01:02.120 DEBUG 33737 --- [main] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 01:01:02.121  INFO 33737 --- [main] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 01:01:03.366  WARN 33737 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 01:01:04.415  INFO 33737 --- [main] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.569 seconds (JVM running for 3.235)
+2020-10-31 01:01:44.527  INFO 33746 --- [main] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 33746 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 01:01:44.530 DEBUG 33746 --- [main] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 01:01:44.530  INFO 33746 --- [main] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 01:01:45.641  WARN 33746 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 01:01:46.709  INFO 33746 --- [main] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.455 seconds (JVM running for 2.934)
+2020-10-31 01:04:17.390  INFO 33759 --- [main] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 33759 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 01:04:17.393 DEBUG 33759 --- [main] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 01:04:17.395  INFO 33759 --- [main] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 01:04:18.729  WARN 33759 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 01:04:19.732  INFO 33759 --- [main] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.768 seconds (JVM running for 3.465)
+2020-10-31 01:04:52.327  INFO 33778 --- [main] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 33778 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 01:04:52.329 DEBUG 33778 --- [main] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 01:04:52.329  INFO 33778 --- [main] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 01:04:53.455  WARN 33778 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 01:04:54.513  INFO 33778 --- [main] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.45 seconds (JVM running for 2.965)
+2020-10-31 01:04:55.553 ERROR 33778 --- [http-nio-8080-exec-1] org.thymeleaf.TemplateEngine             : [THYMELEAF][http-nio-8080-exec-1] Exception processing template "books": Could not parse as expression: "@{'/books?page=' +${page.number+1}" (template: "books" - line 59, col 46)
+
+org.thymeleaf.exceptions.TemplateProcessingException: Could not parse as expression: "@{'/books?page=' +${page.number+1}" (template: "books" - line 59, col 46)
+	at org.thymeleaf.standard.expression.StandardExpressionParser.parseExpression(StandardExpressionParser.java:131) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.StandardExpressionParser.parseExpression(StandardExpressionParser.java:62) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.StandardExpressionParser.parseExpression(StandardExpressionParser.java:44) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.EngineEventUtils.parseAttributeExpression(EngineEventUtils.java:220) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.EngineEventUtils.computeAttributeExpression(EngineEventUtils.java:207) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.processor.AbstractStandardExpressionAttributeTagProcessor.doProcess(AbstractStandardExpressionAttributeTagProcessor.java:125) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractAttributeTagProcessor.doProcess(AbstractAttributeTagProcessor.java:74) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractElementTagProcessor.process(AbstractElementTagProcessor.java:95) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.util.ProcessorConfigurationUtils$ElementTagProcessorWrapper.process(ProcessorConfigurationUtils.java:633) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.ProcessorTemplateHandler.handleOpenElement(ProcessorTemplateHandler.java:1314) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.OpenElementTag.beHandled(OpenElementTag.java:205) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateModel.process(TemplateModel.java:136) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:661) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1098) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1072) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.renderFragment(ThymeleafView.java:362) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.render(ThymeleafView.java:189) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1373) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.lang.Thread.run(Thread.java:832) ~[na:na]
+
+2020-10-31 01:04:55.557 ERROR 33778 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateProcessingException: Could not parse as expression: "@{'/books?page=' +${page.number+1}" (template: "books" - line 59, col 46)] with root cause
+
+org.thymeleaf.exceptions.TemplateProcessingException: Could not parse as expression: "@{'/books?page=' +${page.number+1}" (template: "books" - line 59, col 46)
+	at org.thymeleaf.standard.expression.StandardExpressionParser.parseExpression(StandardExpressionParser.java:131) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.StandardExpressionParser.parseExpression(StandardExpressionParser.java:62) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.StandardExpressionParser.parseExpression(StandardExpressionParser.java:44) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.EngineEventUtils.parseAttributeExpression(EngineEventUtils.java:220) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.EngineEventUtils.computeAttributeExpression(EngineEventUtils.java:207) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.processor.AbstractStandardExpressionAttributeTagProcessor.doProcess(AbstractStandardExpressionAttributeTagProcessor.java:125) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractAttributeTagProcessor.doProcess(AbstractAttributeTagProcessor.java:74) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractElementTagProcessor.process(AbstractElementTagProcessor.java:95) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.util.ProcessorConfigurationUtils$ElementTagProcessorWrapper.process(ProcessorConfigurationUtils.java:633) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.ProcessorTemplateHandler.handleOpenElement(ProcessorTemplateHandler.java:1314) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.OpenElementTag.beHandled(OpenElementTag.java:205) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateModel.process(TemplateModel.java:136) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:661) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1098) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1072) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.renderFragment(ThymeleafView.java:362) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.render(ThymeleafView.java:189) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1373) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.lang.Thread.run(Thread.java:832) ~[na:na]
+
+2020-10-31 01:05:14.099  INFO 33787 --- [main] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 33787 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 01:05:14.101 DEBUG 33787 --- [main] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 01:05:14.101  INFO 33787 --- [main] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 01:05:15.270  WARN 33787 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 01:05:16.324  INFO 33787 --- [main] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.561 seconds (JVM running for 3.071)
+2020-10-31 01:05:19.799 ERROR 33787 --- [http-nio-8080-exec-1] org.thymeleaf.TemplateEngine             : [THYMELEAF][http-nio-8080-exec-1] Exception processing template "books": Could not parse as expression: "@{'/books?page=' +${page.number} + 1" (template: "books" - line 59, col 46)
+
+org.thymeleaf.exceptions.TemplateProcessingException: Could not parse as expression: "@{'/books?page=' +${page.number} + 1" (template: "books" - line 59, col 46)
+	at org.thymeleaf.standard.expression.StandardExpressionParser.parseExpression(StandardExpressionParser.java:131) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.StandardExpressionParser.parseExpression(StandardExpressionParser.java:62) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.StandardExpressionParser.parseExpression(StandardExpressionParser.java:44) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.EngineEventUtils.parseAttributeExpression(EngineEventUtils.java:220) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.EngineEventUtils.computeAttributeExpression(EngineEventUtils.java:207) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.processor.AbstractStandardExpressionAttributeTagProcessor.doProcess(AbstractStandardExpressionAttributeTagProcessor.java:125) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractAttributeTagProcessor.doProcess(AbstractAttributeTagProcessor.java:74) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractElementTagProcessor.process(AbstractElementTagProcessor.java:95) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.util.ProcessorConfigurationUtils$ElementTagProcessorWrapper.process(ProcessorConfigurationUtils.java:633) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.ProcessorTemplateHandler.handleOpenElement(ProcessorTemplateHandler.java:1314) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.OpenElementTag.beHandled(OpenElementTag.java:205) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateModel.process(TemplateModel.java:136) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:661) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1098) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1072) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.renderFragment(ThymeleafView.java:362) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.render(ThymeleafView.java:189) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1373) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.lang.Thread.run(Thread.java:832) ~[na:na]
+
+2020-10-31 01:05:19.803 ERROR 33787 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateProcessingException: Could not parse as expression: "@{'/books?page=' +${page.number} + 1" (template: "books" - line 59, col 46)] with root cause
+
+org.thymeleaf.exceptions.TemplateProcessingException: Could not parse as expression: "@{'/books?page=' +${page.number} + 1" (template: "books" - line 59, col 46)
+	at org.thymeleaf.standard.expression.StandardExpressionParser.parseExpression(StandardExpressionParser.java:131) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.StandardExpressionParser.parseExpression(StandardExpressionParser.java:62) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.StandardExpressionParser.parseExpression(StandardExpressionParser.java:44) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.EngineEventUtils.parseAttributeExpression(EngineEventUtils.java:220) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.EngineEventUtils.computeAttributeExpression(EngineEventUtils.java:207) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.processor.AbstractStandardExpressionAttributeTagProcessor.doProcess(AbstractStandardExpressionAttributeTagProcessor.java:125) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractAttributeTagProcessor.doProcess(AbstractAttributeTagProcessor.java:74) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractElementTagProcessor.process(AbstractElementTagProcessor.java:95) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.util.ProcessorConfigurationUtils$ElementTagProcessorWrapper.process(ProcessorConfigurationUtils.java:633) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.ProcessorTemplateHandler.handleOpenElement(ProcessorTemplateHandler.java:1314) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.OpenElementTag.beHandled(OpenElementTag.java:205) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateModel.process(TemplateModel.java:136) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:661) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1098) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1072) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.renderFragment(ThymeleafView.java:362) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.render(ThymeleafView.java:189) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1373) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.lang.Thread.run(Thread.java:832) ~[na:na]
+
+2020-10-31 01:07:52.954  INFO 33804 --- [main] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 33804 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 01:07:52.956 DEBUG 33804 --- [main] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 01:07:52.957  INFO 33804 --- [main] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 01:07:54.196  WARN 33804 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 01:07:55.216  INFO 33804 --- [main] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.7 seconds (JVM running for 3.474)
+2020-10-31 01:07:57.971 ERROR 33804 --- [http-nio-8080-exec-3] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IllegalArgumentException: Page index must not be less than zero!] with root cause
+
+java.lang.IllegalArgumentException: Page index must not be less than zero!
+	at org.springframework.data.domain.AbstractPageRequest.<init>(AbstractPageRequest.java:46) ~[spring-data-commons-2.3.4.RELEASE.jar:2.3.4.RELEASE]
+	at org.springframework.data.domain.PageRequest.<init>(PageRequest.java:43) ~[spring-data-commons-2.3.4.RELEASE.jar:2.3.4.RELEASE]
+	at org.springframework.data.domain.PageRequest.of(PageRequest.java:70) ~[spring-data-commons-2.3.4.RELEASE.jar:2.3.4.RELEASE]
+	at com.udemy.me.demo.web.BookController.list(BookController.java:27) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.lang.Thread.run(Thread.java:832) ~[na:na]
+
+2020-10-31 01:08:04.935 ERROR 33804 --- [http-nio-8080-exec-5] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IllegalArgumentException: Page index must not be less than zero!] with root cause
+
+java.lang.IllegalArgumentException: Page index must not be less than zero!
+	at org.springframework.data.domain.AbstractPageRequest.<init>(AbstractPageRequest.java:46) ~[spring-data-commons-2.3.4.RELEASE.jar:2.3.4.RELEASE]
+	at org.springframework.data.domain.PageRequest.<init>(PageRequest.java:43) ~[spring-data-commons-2.3.4.RELEASE.jar:2.3.4.RELEASE]
+	at org.springframework.data.domain.PageRequest.of(PageRequest.java:70) ~[spring-data-commons-2.3.4.RELEASE.jar:2.3.4.RELEASE]
+	at com.udemy.me.demo.web.BookController.list(BookController.java:27) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.lang.Thread.run(Thread.java:832) ~[na:na]
+
+2020-10-31 01:08:29.292  INFO 33812 --- [main] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 33812 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 01:08:29.294 DEBUG 33812 --- [main] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 01:08:29.294  INFO 33812 --- [main] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 01:08:30.446  WARN 33812 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 01:08:31.431  INFO 33812 --- [main] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.396 seconds (JVM running for 2.902)
+2020-10-31 01:08:39.051 ERROR 33812 --- [http-nio-8080-exec-7] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IllegalArgumentException: Page index must not be less than zero!] with root cause
+
+java.lang.IllegalArgumentException: Page index must not be less than zero!
+	at org.springframework.data.domain.AbstractPageRequest.<init>(AbstractPageRequest.java:46) ~[spring-data-commons-2.3.4.RELEASE.jar:2.3.4.RELEASE]
+	at org.springframework.data.domain.PageRequest.<init>(PageRequest.java:43) ~[spring-data-commons-2.3.4.RELEASE.jar:2.3.4.RELEASE]
+	at org.springframework.data.domain.PageRequest.of(PageRequest.java:70) ~[spring-data-commons-2.3.4.RELEASE.jar:2.3.4.RELEASE]
+	at com.udemy.me.demo.web.BookController.list(BookController.java:27) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.lang.Thread.run(Thread.java:832) ~[na:na]
+
+2020-10-31 01:08:51.859 ERROR 33812 --- [http-nio-8080-exec-6] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IllegalArgumentException: Page index must not be less than zero!] with root cause
+
+java.lang.IllegalArgumentException: Page index must not be less than zero!
+	at org.springframework.data.domain.AbstractPageRequest.<init>(AbstractPageRequest.java:46) ~[spring-data-commons-2.3.4.RELEASE.jar:2.3.4.RELEASE]
+	at org.springframework.data.domain.PageRequest.<init>(PageRequest.java:43) ~[spring-data-commons-2.3.4.RELEASE.jar:2.3.4.RELEASE]
+	at org.springframework.data.domain.PageRequest.of(PageRequest.java:70) ~[spring-data-commons-2.3.4.RELEASE.jar:2.3.4.RELEASE]
+	at com.udemy.me.demo.web.BookController.list(BookController.java:27) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.lang.Thread.run(Thread.java:832) ~[na:na]
+
+2020-10-31 01:13:33.365  INFO 33837 --- [main] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 33837 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 01:13:33.367 DEBUG 33837 --- [main] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 01:13:33.367  INFO 33837 --- [main] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 01:13:34.718  WARN 33837 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 01:13:35.750  INFO 33837 --- [main] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.654 seconds (JVM running for 3.364)
+2020-10-31 01:22:56.108  INFO 33886 --- [main] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 33886 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 01:22:56.111 DEBUG 33886 --- [main] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 01:22:56.111  INFO 33886 --- [main] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 01:22:57.221  WARN 33886 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 01:22:58.247  INFO 33886 --- [main] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.395 seconds (JVM running for 3.023)
+2020-10-31 01:36:02.092  INFO 33938 --- [main] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 33938 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 01:36:02.094 DEBUG 33938 --- [main] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 01:36:02.094  INFO 33938 --- [main] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 01:36:03.302  WARN 33938 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 01:36:04.346  INFO 33938 --- [main] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.551 seconds (JVM running for 3.147)
+2020-10-31 02:13:52.912  WARN 33938 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m41s10ms).
+2020-10-31 02:54:00.232  WARN 33938 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=39m37s298ms).
+2020-10-31 03:37:22.375  WARN 33938 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=31m22s71ms).
+2020-10-31 04:12:15.845  WARN 33938 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=33m53s466ms).
+2020-10-31 06:13:14.089  WARN 33938 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h28s232ms).
+2020-10-31 08:14:12.252  WARN 33938 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h28s162ms).
+2020-10-31 10:14:41.147  WARN 33938 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h28s895ms).
+2020-10-31 11:00:06.672  WARN 33938 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=44m54s751ms).
+2020-10-31 12:00:25.913  INFO 34280 --- [main] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 34280 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 12:00:25.915 DEBUG 34280 --- [main] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 12:00:25.916  INFO 34280 --- [main] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 12:00:27.930  WARN 34280 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 12:00:29.885  INFO 34280 --- [main] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 4.642 seconds (JVM running for 5.568)
+2020-10-31 12:00:38.864  INFO 34283 --- [main] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 34283 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 12:00:38.869 DEBUG 34283 --- [main] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 12:00:38.869  INFO 34283 --- [main] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 12:00:40.272  WARN 34283 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 12:00:41.571  INFO 34283 --- [main] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 3.148 seconds (JVM running for 4.832)
+2020-10-31 12:03:48.374  INFO 34305 --- [main] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 34305 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 12:03:48.377 DEBUG 34305 --- [main] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 12:03:48.377  INFO 34305 --- [main] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 12:03:49.884  WARN 34305 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 12:03:51.068  INFO 34305 --- [main] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 3.143 seconds (JVM running for 3.945)
+2020-10-31 12:31:51.959  WARN 34305 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m1s319ms).
+2020-10-31 12:39:31.189  WARN 34305 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m9s98ms).
+2020-10-31 13:09:40.835  WARN 34305 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m39s618ms).
+2020-10-31 13:25:05.161  WARN 34305 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=14m54s308ms).
+2020-10-31 14:06:09.015  INFO 34605 --- [main] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 34605 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 14:06:09.018 DEBUG 34605 --- [main] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 14:06:09.018  INFO 34605 --- [main] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 14:06:10.224  WARN 34605 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 14:06:11.273  INFO 34605 --- [main] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.629 seconds (JVM running for 3.705)
+2020-10-31 14:16:13.089  INFO 34653 --- [main] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 34653 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 14:16:13.090 DEBUG 34653 --- [main] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 14:16:13.090  INFO 34653 --- [main] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 14:16:14.255  WARN 34653 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 14:16:15.402  INFO 34653 --- [main] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.565 seconds (JVM running for 3.203)
+2020-10-31 14:16:19.065 ERROR 34653 --- [http-nio-8080-exec-1] org.thymeleaf.TemplateEngine             : [THYMELEAF][http-nio-8080-exec-1] Exception processing template "books": Exception evaluating SpringEL expression: "page.content" (template: "books" - line 35, col 17)
+
+org.thymeleaf.exceptions.TemplateProcessingException: Exception evaluating SpringEL expression: "page.content" (template: "books" - line 35, col 17)
+	at org.thymeleaf.spring5.expression.SPELVariableExpressionEvaluator.evaluate(SPELVariableExpressionEvaluator.java:290) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.VariableExpression.executeVariableExpression(VariableExpression.java:166) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.SimpleExpression.executeSimple(SimpleExpression.java:66) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.Expression.execute(Expression.java:109) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.Expression.execute(Expression.java:138) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.Expression.execute(Expression.java:125) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.processor.StandardEachTagProcessor.doProcess(StandardEachTagProcessor.java:73) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractAttributeTagProcessor.doProcess(AbstractAttributeTagProcessor.java:74) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractElementTagProcessor.process(AbstractElementTagProcessor.java:95) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.util.ProcessorConfigurationUtils$ElementTagProcessorWrapper.process(ProcessorConfigurationUtils.java:633) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.ProcessorTemplateHandler.handleOpenElement(ProcessorTemplateHandler.java:1314) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.OpenElementTag.beHandled(OpenElementTag.java:205) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateModel.process(TemplateModel.java:136) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:661) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1098) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1072) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.renderFragment(ThymeleafView.java:362) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.render(ThymeleafView.java:189) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1373) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.lang.Thread.run(Thread.java:832) ~[na:na]
+Caused by: org.springframework.expression.spel.SpelEvaluationException: EL1007E: Property or field 'content' cannot be found on null
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference.readProperty(PropertyOrFieldReference.java:213) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference.getValueInternal(PropertyOrFieldReference.java:104) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference.access$000(PropertyOrFieldReference.java:51) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference$AccessorLValue.getValue(PropertyOrFieldReference.java:406) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.CompoundExpression.getValueInternal(CompoundExpression.java:92) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.SpelNodeImpl.getValue(SpelNodeImpl.java:112) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.standard.SpelExpression.getValue(SpelExpression.java:337) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.thymeleaf.spring5.expression.SPELVariableExpressionEvaluator.evaluate(SPELVariableExpressionEvaluator.java:263) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	... 59 common frames omitted
+
+2020-10-31 14:16:19.069 ERROR 34653 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateProcessingException: Exception evaluating SpringEL expression: "page.content" (template: "books" - line 35, col 17)] with root cause
+
+org.springframework.expression.spel.SpelEvaluationException: EL1007E: Property or field 'content' cannot be found on null
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference.readProperty(PropertyOrFieldReference.java:213) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference.getValueInternal(PropertyOrFieldReference.java:104) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference.access$000(PropertyOrFieldReference.java:51) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference$AccessorLValue.getValue(PropertyOrFieldReference.java:406) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.CompoundExpression.getValueInternal(CompoundExpression.java:92) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.SpelNodeImpl.getValue(SpelNodeImpl.java:112) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.standard.SpelExpression.getValue(SpelExpression.java:337) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.thymeleaf.spring5.expression.SPELVariableExpressionEvaluator.evaluate(SPELVariableExpressionEvaluator.java:263) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.VariableExpression.executeVariableExpression(VariableExpression.java:166) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.SimpleExpression.executeSimple(SimpleExpression.java:66) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.Expression.execute(Expression.java:109) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.Expression.execute(Expression.java:138) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.Expression.execute(Expression.java:125) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.processor.StandardEachTagProcessor.doProcess(StandardEachTagProcessor.java:73) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractAttributeTagProcessor.doProcess(AbstractAttributeTagProcessor.java:74) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractElementTagProcessor.process(AbstractElementTagProcessor.java:95) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.util.ProcessorConfigurationUtils$ElementTagProcessorWrapper.process(ProcessorConfigurationUtils.java:633) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.ProcessorTemplateHandler.handleOpenElement(ProcessorTemplateHandler.java:1314) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.OpenElementTag.beHandled(OpenElementTag.java:205) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateModel.process(TemplateModel.java:136) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:661) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1098) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1072) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.renderFragment(ThymeleafView.java:362) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.render(ThymeleafView.java:189) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1373) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.lang.Thread.run(Thread.java:832) ~[na:na]
+
+2020-10-31 14:16:27.776  INFO 34665 --- [main] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 34665 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 14:16:27.778 DEBUG 34665 --- [main] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 14:16:27.778  INFO 34665 --- [main] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 14:16:28.996  WARN 34665 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 14:16:30.043  INFO 34665 --- [main] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.542 seconds (JVM running for 3.007)
+2020-10-31 14:16:34.035 ERROR 34665 --- [http-nio-8080-exec-1] org.thymeleaf.TemplateEngine             : [THYMELEAF][http-nio-8080-exec-1] Exception processing template "books": Exception evaluating SpringEL expression: "page.first" (template: "books" - line 59, col 97)
+
+org.thymeleaf.exceptions.TemplateProcessingException: Exception evaluating SpringEL expression: "page.first" (template: "books" - line 59, col 97)
+	at org.thymeleaf.spring5.expression.SPELVariableExpressionEvaluator.evaluate(SPELVariableExpressionEvaluator.java:290) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.VariableExpression.executeVariableExpression(VariableExpression.java:166) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.SimpleExpression.executeSimple(SimpleExpression.java:66) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.Expression.execute(Expression.java:109) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.Expression.execute(Expression.java:138) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.Expression.execute(Expression.java:125) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.processor.StandardUnlessTagProcessor.isVisible(StandardUnlessTagProcessor.java:58) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.processor.AbstractStandardConditionalVisibilityTagProcessor.doProcess(AbstractStandardConditionalVisibilityTagProcessor.java:61) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractAttributeTagProcessor.doProcess(AbstractAttributeTagProcessor.java:74) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractElementTagProcessor.process(AbstractElementTagProcessor.java:95) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.util.ProcessorConfigurationUtils$ElementTagProcessorWrapper.process(ProcessorConfigurationUtils.java:633) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.ProcessorTemplateHandler.handleOpenElement(ProcessorTemplateHandler.java:1314) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.OpenElementTag.beHandled(OpenElementTag.java:205) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateModel.process(TemplateModel.java:136) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:661) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1098) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1072) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.renderFragment(ThymeleafView.java:362) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.render(ThymeleafView.java:189) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1373) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.lang.Thread.run(Thread.java:832) ~[na:na]
+Caused by: org.springframework.expression.spel.SpelEvaluationException: EL1007E: Property or field 'first' cannot be found on null
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference.readProperty(PropertyOrFieldReference.java:213) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference.getValueInternal(PropertyOrFieldReference.java:104) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference.access$000(PropertyOrFieldReference.java:51) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference$AccessorLValue.getValue(PropertyOrFieldReference.java:406) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.CompoundExpression.getValueInternal(CompoundExpression.java:92) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.SpelNodeImpl.getValue(SpelNodeImpl.java:112) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.standard.SpelExpression.getValue(SpelExpression.java:337) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.thymeleaf.spring5.expression.SPELVariableExpressionEvaluator.evaluate(SPELVariableExpressionEvaluator.java:263) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	... 60 common frames omitted
+
+2020-10-31 14:16:34.040 ERROR 34665 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateProcessingException: Exception evaluating SpringEL expression: "page.first" (template: "books" - line 59, col 97)] with root cause
+
+org.springframework.expression.spel.SpelEvaluationException: EL1007E: Property or field 'first' cannot be found on null
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference.readProperty(PropertyOrFieldReference.java:213) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference.getValueInternal(PropertyOrFieldReference.java:104) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference.access$000(PropertyOrFieldReference.java:51) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference$AccessorLValue.getValue(PropertyOrFieldReference.java:406) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.CompoundExpression.getValueInternal(CompoundExpression.java:92) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.SpelNodeImpl.getValue(SpelNodeImpl.java:112) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.standard.SpelExpression.getValue(SpelExpression.java:337) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.thymeleaf.spring5.expression.SPELVariableExpressionEvaluator.evaluate(SPELVariableExpressionEvaluator.java:263) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.VariableExpression.executeVariableExpression(VariableExpression.java:166) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.SimpleExpression.executeSimple(SimpleExpression.java:66) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.Expression.execute(Expression.java:109) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.Expression.execute(Expression.java:138) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.Expression.execute(Expression.java:125) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.processor.StandardUnlessTagProcessor.isVisible(StandardUnlessTagProcessor.java:58) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.processor.AbstractStandardConditionalVisibilityTagProcessor.doProcess(AbstractStandardConditionalVisibilityTagProcessor.java:61) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractAttributeTagProcessor.doProcess(AbstractAttributeTagProcessor.java:74) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractElementTagProcessor.process(AbstractElementTagProcessor.java:95) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.util.ProcessorConfigurationUtils$ElementTagProcessorWrapper.process(ProcessorConfigurationUtils.java:633) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.ProcessorTemplateHandler.handleOpenElement(ProcessorTemplateHandler.java:1314) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.OpenElementTag.beHandled(OpenElementTag.java:205) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateModel.process(TemplateModel.java:136) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:661) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1098) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1072) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.renderFragment(ThymeleafView.java:362) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.render(ThymeleafView.java:189) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1373) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.lang.Thread.run(Thread.java:832) ~[na:na]
+
+2020-10-31 14:16:36.023 ERROR 34665 --- [http-nio-8080-exec-2] org.thymeleaf.TemplateEngine             : [THYMELEAF][http-nio-8080-exec-2] Exception processing template "books": Exception evaluating SpringEL expression: "page.first" (template: "books" - line 59, col 97)
+
+org.thymeleaf.exceptions.TemplateProcessingException: Exception evaluating SpringEL expression: "page.first" (template: "books" - line 59, col 97)
+	at org.thymeleaf.spring5.expression.SPELVariableExpressionEvaluator.evaluate(SPELVariableExpressionEvaluator.java:290) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.VariableExpression.executeVariableExpression(VariableExpression.java:166) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.SimpleExpression.executeSimple(SimpleExpression.java:66) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.Expression.execute(Expression.java:109) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.Expression.execute(Expression.java:138) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.Expression.execute(Expression.java:125) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.processor.StandardUnlessTagProcessor.isVisible(StandardUnlessTagProcessor.java:58) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.processor.AbstractStandardConditionalVisibilityTagProcessor.doProcess(AbstractStandardConditionalVisibilityTagProcessor.java:61) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractAttributeTagProcessor.doProcess(AbstractAttributeTagProcessor.java:74) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractElementTagProcessor.process(AbstractElementTagProcessor.java:95) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.util.ProcessorConfigurationUtils$ElementTagProcessorWrapper.process(ProcessorConfigurationUtils.java:633) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.ProcessorTemplateHandler.handleOpenElement(ProcessorTemplateHandler.java:1314) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.OpenElementTag.beHandled(OpenElementTag.java:205) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateModel.process(TemplateModel.java:136) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:592) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1098) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1072) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.renderFragment(ThymeleafView.java:362) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.render(ThymeleafView.java:189) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1373) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.lang.Thread.run(Thread.java:832) ~[na:na]
+Caused by: org.springframework.expression.spel.SpelEvaluationException: EL1007E: Property or field 'first' cannot be found on null
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference.readProperty(PropertyOrFieldReference.java:213) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference.getValueInternal(PropertyOrFieldReference.java:104) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference.access$000(PropertyOrFieldReference.java:51) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference$AccessorLValue.getValue(PropertyOrFieldReference.java:406) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.CompoundExpression.getValueInternal(CompoundExpression.java:92) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.SpelNodeImpl.getValue(SpelNodeImpl.java:112) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.standard.SpelExpression.getValue(SpelExpression.java:337) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.thymeleaf.spring5.expression.SPELVariableExpressionEvaluator.evaluate(SPELVariableExpressionEvaluator.java:263) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	... 60 common frames omitted
+
+2020-10-31 14:16:36.024 ERROR 34665 --- [http-nio-8080-exec-2] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateProcessingException: Exception evaluating SpringEL expression: "page.first" (template: "books" - line 59, col 97)] with root cause
+
+org.springframework.expression.spel.SpelEvaluationException: EL1007E: Property or field 'first' cannot be found on null
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference.readProperty(PropertyOrFieldReference.java:213) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference.getValueInternal(PropertyOrFieldReference.java:104) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference.access$000(PropertyOrFieldReference.java:51) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference$AccessorLValue.getValue(PropertyOrFieldReference.java:406) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.CompoundExpression.getValueInternal(CompoundExpression.java:92) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.SpelNodeImpl.getValue(SpelNodeImpl.java:112) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.standard.SpelExpression.getValue(SpelExpression.java:337) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.thymeleaf.spring5.expression.SPELVariableExpressionEvaluator.evaluate(SPELVariableExpressionEvaluator.java:263) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.VariableExpression.executeVariableExpression(VariableExpression.java:166) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.SimpleExpression.executeSimple(SimpleExpression.java:66) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.Expression.execute(Expression.java:109) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.Expression.execute(Expression.java:138) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.Expression.execute(Expression.java:125) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.processor.StandardUnlessTagProcessor.isVisible(StandardUnlessTagProcessor.java:58) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.processor.AbstractStandardConditionalVisibilityTagProcessor.doProcess(AbstractStandardConditionalVisibilityTagProcessor.java:61) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractAttributeTagProcessor.doProcess(AbstractAttributeTagProcessor.java:74) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractElementTagProcessor.process(AbstractElementTagProcessor.java:95) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.util.ProcessorConfigurationUtils$ElementTagProcessorWrapper.process(ProcessorConfigurationUtils.java:633) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.ProcessorTemplateHandler.handleOpenElement(ProcessorTemplateHandler.java:1314) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.OpenElementTag.beHandled(OpenElementTag.java:205) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateModel.process(TemplateModel.java:136) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:592) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1098) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1072) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.renderFragment(ThymeleafView.java:362) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.render(ThymeleafView.java:189) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1373) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.lang.Thread.run(Thread.java:832) ~[na:na]
+
+2020-10-31 14:16:36.698 ERROR 34665 --- [http-nio-8080-exec-3] org.thymeleaf.TemplateEngine             : [THYMELEAF][http-nio-8080-exec-3] Exception processing template "books": Exception evaluating SpringEL expression: "page.first" (template: "books" - line 59, col 97)
+
+org.thymeleaf.exceptions.TemplateProcessingException: Exception evaluating SpringEL expression: "page.first" (template: "books" - line 59, col 97)
+	at org.thymeleaf.spring5.expression.SPELVariableExpressionEvaluator.evaluate(SPELVariableExpressionEvaluator.java:290) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.VariableExpression.executeVariableExpression(VariableExpression.java:166) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.SimpleExpression.executeSimple(SimpleExpression.java:66) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.Expression.execute(Expression.java:109) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.Expression.execute(Expression.java:138) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.Expression.execute(Expression.java:125) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.processor.StandardUnlessTagProcessor.isVisible(StandardUnlessTagProcessor.java:58) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.processor.AbstractStandardConditionalVisibilityTagProcessor.doProcess(AbstractStandardConditionalVisibilityTagProcessor.java:61) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractAttributeTagProcessor.doProcess(AbstractAttributeTagProcessor.java:74) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractElementTagProcessor.process(AbstractElementTagProcessor.java:95) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.util.ProcessorConfigurationUtils$ElementTagProcessorWrapper.process(ProcessorConfigurationUtils.java:633) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.ProcessorTemplateHandler.handleOpenElement(ProcessorTemplateHandler.java:1314) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.OpenElementTag.beHandled(OpenElementTag.java:205) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateModel.process(TemplateModel.java:136) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:592) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1098) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1072) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.renderFragment(ThymeleafView.java:362) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.render(ThymeleafView.java:189) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1373) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.lang.Thread.run(Thread.java:832) ~[na:na]
+Caused by: org.springframework.expression.spel.SpelEvaluationException: EL1007E: Property or field 'first' cannot be found on null
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference.readProperty(PropertyOrFieldReference.java:213) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference.getValueInternal(PropertyOrFieldReference.java:104) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference.access$000(PropertyOrFieldReference.java:51) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference$AccessorLValue.getValue(PropertyOrFieldReference.java:406) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.CompoundExpression.getValueInternal(CompoundExpression.java:92) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.SpelNodeImpl.getValue(SpelNodeImpl.java:112) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.standard.SpelExpression.getValue(SpelExpression.java:337) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.thymeleaf.spring5.expression.SPELVariableExpressionEvaluator.evaluate(SPELVariableExpressionEvaluator.java:263) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	... 60 common frames omitted
+
+2020-10-31 14:16:36.700 ERROR 34665 --- [http-nio-8080-exec-3] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.thymeleaf.exceptions.TemplateProcessingException: Exception evaluating SpringEL expression: "page.first" (template: "books" - line 59, col 97)] with root cause
+
+org.springframework.expression.spel.SpelEvaluationException: EL1007E: Property or field 'first' cannot be found on null
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference.readProperty(PropertyOrFieldReference.java:213) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference.getValueInternal(PropertyOrFieldReference.java:104) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference.access$000(PropertyOrFieldReference.java:51) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.PropertyOrFieldReference$AccessorLValue.getValue(PropertyOrFieldReference.java:406) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.CompoundExpression.getValueInternal(CompoundExpression.java:92) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.ast.SpelNodeImpl.getValue(SpelNodeImpl.java:112) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.expression.spel.standard.SpelExpression.getValue(SpelExpression.java:337) ~[spring-expression-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.thymeleaf.spring5.expression.SPELVariableExpressionEvaluator.evaluate(SPELVariableExpressionEvaluator.java:263) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.VariableExpression.executeVariableExpression(VariableExpression.java:166) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.SimpleExpression.executeSimple(SimpleExpression.java:66) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.Expression.execute(Expression.java:109) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.Expression.execute(Expression.java:138) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.expression.Expression.execute(Expression.java:125) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.processor.StandardUnlessTagProcessor.isVisible(StandardUnlessTagProcessor.java:58) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.standard.processor.AbstractStandardConditionalVisibilityTagProcessor.doProcess(AbstractStandardConditionalVisibilityTagProcessor.java:61) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractAttributeTagProcessor.doProcess(AbstractAttributeTagProcessor.java:74) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.processor.element.AbstractElementTagProcessor.process(AbstractElementTagProcessor.java:95) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.util.ProcessorConfigurationUtils$ElementTagProcessorWrapper.process(ProcessorConfigurationUtils.java:633) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.ProcessorTemplateHandler.handleOpenElement(ProcessorTemplateHandler.java:1314) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.OpenElementTag.beHandled(OpenElementTag.java:205) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateModel.process(TemplateModel.java:136) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.engine.TemplateManager.parseAndProcess(TemplateManager.java:592) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1098) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1072) ~[thymeleaf-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.renderFragment(ThymeleafView.java:362) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.thymeleaf.spring5.view.ThymeleafView.render(ThymeleafView.java:189) ~[thymeleaf-spring5-3.0.11.RELEASE.jar:3.0.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1373) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) ~[tomcat-embed-core-9.0.38.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.38.jar:9.0.38]
+	at java.base/java.lang.Thread.run(Thread.java:832) ~[na:na]
+
+2020-10-31 14:17:02.330  INFO 34676 --- [main] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 34676 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 14:17:02.331 DEBUG 34676 --- [main] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 14:17:02.332  INFO 34676 --- [main] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 14:17:03.520  WARN 34676 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 14:17:04.604  INFO 34676 --- [main] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.55 seconds (JVM running for 3.018)
+2020-10-31 14:47:00.516  INFO 34854 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 34854 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 14:47:00.521 DEBUG 34854 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 14:47:00.521  INFO 34854 --- [restartedMain] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 14:47:01.753  WARN 34854 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 14:47:02.758  INFO 34854 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.549 seconds (JVM running for 3.224)
+2020-10-31 14:48:03.093  INFO 34854 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 34854 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 14:48:03.093 DEBUG 34854 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 14:48:03.093  INFO 34854 --- [restartedMain] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 14:48:03.428  WARN 34854 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 14:48:03.565  INFO 34854 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 0.506 seconds (JVM running for 64.03)
+2020-10-31 14:52:48.845  INFO 34876 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 34876 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 14:52:48.849 DEBUG 34876 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 14:52:48.850  INFO 34876 --- [restartedMain] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 14:52:50.096  WARN 34876 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 14:52:51.148  INFO 34876 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.588 seconds (JVM running for 3.361)
+2020-10-31 14:53:49.268  INFO 34886 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 34886 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 14:53:49.270 DEBUG 34886 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 14:53:49.270  INFO 34886 --- [restartedMain] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 14:53:50.696  WARN 34886 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 14:53:51.776  INFO 34886 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.757 seconds (JVM running for 3.358)
+2020-10-31 14:55:13.906  INFO 34886 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 34886 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 14:55:13.906 DEBUG 34886 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 14:55:13.907  INFO 34886 --- [restartedMain] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 14:55:14.278  WARN 34886 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 14:55:14.418  INFO 34886 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 0.736 seconds (JVM running for 85.997)
+2020-10-31 14:55:45.538  INFO 34886 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 34886 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 14:55:45.538 DEBUG 34886 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 14:55:45.538  INFO 34886 --- [restartedMain] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 14:55:45.757  WARN 34886 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 14:55:45.873  INFO 34886 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 0.356 seconds (JVM running for 117.452)
+2020-10-31 15:10:05.552  INFO 35012 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 35012 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 15:10:05.555 DEBUG 35012 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 15:10:05.555  INFO 35012 --- [restartedMain] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 15:10:06.804  WARN 35012 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 15:10:08.004  INFO 35012 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.72 seconds (JVM running for 3.397)
+2020-10-31 15:10:33.615  INFO 35019 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 35019 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 15:10:33.616 DEBUG 35019 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 15:10:33.616  INFO 35019 --- [restartedMain] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 15:10:34.788  WARN 35019 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 15:10:35.860  INFO 35019 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.477 seconds (JVM running for 3.011)
+2020-10-31 15:13:07.805  INFO 35034 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 35034 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 15:13:07.806 DEBUG 35034 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 15:13:07.806  INFO 35034 --- [restartedMain] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 15:13:09.009  WARN 35034 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 15:13:10.118  INFO 35034 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.542 seconds (JVM running for 3.112)
+2020-10-31 15:14:03.299  INFO 35042 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 35042 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 15:14:03.302 DEBUG 35042 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 15:14:03.302  INFO 35042 --- [restartedMain] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 15:14:04.430  WARN 35042 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 15:14:05.505  INFO 35042 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.455 seconds (JVM running for 3.199)
+2020-10-31 15:14:27.079  INFO 35051 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 35051 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 15:14:27.082 DEBUG 35051 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 15:14:27.082  INFO 35051 --- [restartedMain] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 15:14:28.283  WARN 35051 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 15:14:29.376  INFO 35051 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.568 seconds (JVM running for 3.145)
+2020-10-31 15:15:06.939  INFO 35059 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 35059 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 15:15:06.942 DEBUG 35059 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 15:15:06.942  INFO 35059 --- [restartedMain] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 15:15:08.343  WARN 35059 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 15:15:09.427  INFO 35059 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.728 seconds (JVM running for 3.331)
+2020-10-31 15:16:45.280  INFO 35078 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 35078 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 15:16:45.284 DEBUG 35078 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 15:16:45.285  INFO 35078 --- [restartedMain] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 15:16:47.394  WARN 35078 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 15:16:48.508  INFO 35078 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 3.556 seconds (JVM running for 4.262)
+2020-10-31 15:19:02.000  INFO 35090 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 35090 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 15:19:02.004 DEBUG 35090 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 15:19:02.004  INFO 35090 --- [restartedMain] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 15:19:03.410  WARN 35090 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 15:19:04.359  INFO 35090 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 2.679 seconds (JVM running for 3.395)
+2020-10-31 15:42:15.128  INFO 35159 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 35159 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 15:42:15.130 DEBUG 35159 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 15:42:15.130  INFO 35159 --- [restartedMain] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 15:42:16.857  WARN 35159 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 15:42:18.119  INFO 35159 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 3.242 seconds (JVM running for 4.018)
+2020-10-31 15:43:41.125  INFO 35172 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Starting DemoApplication on EasondeMacBook-Pro.local with PID 35172 (/Users/easontsai/IdeaProjects/demoudemy/target/classes started by easontsai in /Users/easontsai/IdeaProjects/demoudemy)
+2020-10-31 15:43:41.127 DEBUG 35172 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-31 15:43:41.127  INFO 35172 --- [restartedMain] com.udemy.me.demo.DemoApplication        : The following profiles are active: dev
+2020-10-31 15:43:42.896  WARN 35172 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-10-31 15:43:44.241  INFO 35172 --- [restartedMain] com.udemy.me.demo.DemoApplication        : Started DemoApplication in 3.38 seconds (JVM running for 4.038)
+2020-10-31 16:53:00.950  WARN 35172 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=47s53ms).
+2020-10-31 17:15:23.349  WARN 35172 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=21m52s351ms).
+2020-10-31 17:45:32.934  WARN 35172 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m39s558ms).
+2020-10-31 18:19:05.502  WARN 35172 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=33m2s559ms).
+2020-10-31 18:50:30.200  WARN 35172 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=30m24s682ms).
+2020-10-31 20:50:59.462  WARN 35172 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h29s263ms).
+2020-10-31 21:31:29.036  WARN 35172 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=38m58s801ms).
+2020-10-31 22:04:44.654  WARN 35172 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=33m15s618ms).
