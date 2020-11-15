@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 import java.util.Optional;
-
+/*spring boot實現簡單的書單RESTFul API*/
 @RestController
 @RequestMapping("/api/v1")
 public class BookApp {
@@ -55,6 +55,7 @@ public class BookApp {
         book.setAuthor(author);
         book.setDescription(description);
         book.setStatus(status);
+
         return bookService.save(book);
     }
 

@@ -2,71 +2,73 @@
 <html lang="en" xmlns:th="http://www.w3.org/1999/xhtml" >
 <head>
     <meta charset="UTF-8">
-    <title>books</title>
+    <title>書單列表</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="stylesheet" th:href="@{/css/bootstrap.css}"  href="../static/css/bootstrap.css">
 </head>
 <body>
-    <div class="container">
-        <h2 class="page-header">詳情</h2>
-        <p class="text-right"><a th:href="@{/books/input}"  class="btn btn-primary">新增</a></p>
-        <table class="table table-bordered table-striped table-hover">
-            <thead>
-            <tr>
-                <th>#</th>
-                <th>書名</th>
-                <th>作者</th>
-                <th>說明</th>
-                <th>狀態</th>
-                <th>操作</th>
-            </tr>
-            </thead>
-            <tbody>
-            <!--
+<div class="container">
+    <h2 class="page-header">書單列表</h2>
+    <p class="text-right"><a th:href="@{/books/input}"  class="btn btn-primary">新增</a></p>
+    <table class="table table-bordered table-striped table-hover">
+        <thead>
+        <tr>
+            <th>#</th>
+            <th>書名</th>
+            <th>作者</th>
+            <th>說明</th>
+            <th>狀態</th>
+            <th>操作</th>
+        </tr>
+        </thead>
+        <tbody>
+        <!--
+            乘載序號
             iterStat:
                 count:計數 從1開始
                 index:索引 從0開始
                 size:列表總條數
                 even/odd: 偶數/奇數
-                first/last: 第一條/最後一條
+                first/last: 第一條/最後一條-->
+        <tr th:each="book,iterStat:${books}" >
+            <td th:text="${iterStat.count}"></td> <!--獲得序號-->
+            <td ><a th:text="${book.name}" th:href="@{/books/{id}(id=${book.id})}">書名</a></td>
+            <!--加入超連結，導到書單詳情
+                等同於呼叫@GetMapping("/books/{id}")
+                另一個寫法：串接String
+                th:href="@{'/books/' + ${book.id}}"
             -->
-            <td th:each="book,iterStat:${page.content}" th:class="${iterStat.odd}? 'bg-success'">
-                <td th:text="${iterStat.index}">1</td>
-<!--
-                <td> <a href="#" th:text="${book.name}" th:href="@{/books/{id}(id=${book.id})}">書名</a></td>
--->
-                <td> <a href="#" th:text="${book.name}" th:href="@{'/books/'+ ${book.id}}">書名</a></td>
+            <td th:text="${book.author}">作者</td>
+            <td th:text="${book.description}">說明</td>
+            <td th:switch="${book.status}">
+                <span th:case="0">想讀</span>
+                <span th:case="1">在讀</span>
+                <span th:case="2">已讀</span>
+            </td>
 
-                <td th:text="${book.author}">作者</td>
-                <td th:text="${book.description}">說明</td>
-                <td th:switch="${book.status}">
-                    <span th:case="0">想讀</span>
-                    <span th:case="1">在讀</span>
-                    <span th:case="2">已讀</span>
-
-                </td>
-                <td>
-                    <a href="#" th:href="@{/books/{id}/input(id=${book.id})}">更新</a>&nbsp;
-                    <a href="#" th:href="@{/books/{id}/delete(id=${book.id})}">刪除</a>
-                </td>
-            </tbody>
-        </table>
-        <nav>
+            <td>
+                <a href="#" th:href="@{/books/{id}/input(id=${book.id})}">更新</a>&nbsp;
+                <a href="#" th:href="@{/books/{id}/delete(id=${book.id})}">刪除</a>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+        <!--<nav>
             <ul class="pager">
-                <!--兩種傳參方式-->
+                &lt;!&ndash;兩種傳參方式&ndash;&gt;
                 <li class="previous" ><a href="#" th:href="@{'/books?page=' +${page.number-1}}" th:unless="${page.first}">上一頁</a></li>
                 <li class="next"><a href="#" th:href="@{/books(page=${page.number} + 1)}" th:unless="${page.last}">下一頁</a></li>
             </ul>
-        </nav>
-    </div>
+        </nav>-->
+</div>
 
 
 
     <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-    <script th:href="@{/js/bootstrap.js}" src="../static/js/bootstrap.js"></script>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script th:href="@{/js/bootstrap.js}" src="../static/js/bootstrap.js"></script>
 
 </body>
 </html>

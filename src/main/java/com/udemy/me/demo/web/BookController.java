@@ -18,22 +18,18 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 import java.util.List;
 
-@Controller
+@Controller/*外部控制器*/
 public class BookController {
     @Autowired
     private BookService bookService;
-
+    /**/
     @GetMapping("/books")
-    public String list(/*@RequestParam(defaultValue = "0") int page, @RequestParam(defaultValue = "5")int size,Model model*/
-                        @PageableDefault(size = 5 , sort = {"id"}, direction = Sort.Direction.DESC) Pageable pageable,Model model) {
-        /*List<Book> books = bookService.findAll();*/
-        /*Sort sort = Sort.by(Sort.Direction.DESC,"id");*/
-        /*Page<Book> page1 = bookService.findAllByPage(PageRequest.of(page,size,sort));*/
-        Page<Book> page1 = bookService.findAllByPage(pageable);
-
-        model.addAttribute("page", page1);/*（"a"）,books = books as a, books is List<Book> assigned by bookService.finAll*/
+    public String list(Model model) {
+        List<Book> book =bookService.findAll();
+        model.addAttribute("books",book);
         return "books";
     }
+    /*書單詳情*/
     @GetMapping("/books/{id}")
     public String detail(@PathVariable long id, Model model){
         Book book =bookService.findOne(id);
@@ -46,18 +42,20 @@ public class BookController {
         model.addAttribute("book",new Book());
         return "input";
     }
+    /*新增儲存提交後返回列表利用redirect重新導向*/
+    @PostMapping("/books")
+    public String post(Book book) {
+        bookService.save(book);
+        return "redirect:/books";
+    }
+    /*列表中更新書單內容*/
     @GetMapping("/books/{id}/input")
     public String inputEditPage(@PathVariable long id,Model model){
         Book book = bookService.findOne(id);
         model.addAttribute("book",book);
         return "input";
     }
-    /*儲存後返回列表*/
-    @PostMapping("/books")
-    public String post(Book book) {
-        bookService.save(book);
-        return "redirect:/books";
-    }
+    /*列表中刪除書單內容*/
     @GetMapping("/books/{id}/delete")
     public String delete(@PathVariable long id){
         bookService.deleteOne(id);

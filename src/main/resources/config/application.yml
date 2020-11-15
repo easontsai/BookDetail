@@ -1,10 +1,21 @@
+server:
+  port: 8080
+#servlet:
+#    context-path: /v1
+logging:
+  level:
+    root: warn
+    com.udemy: debug
+  file:
+    name: logs/debug.log
 spring:
-  profiles:
-    active: dev
-
-book:
-  name: 互聯網
-  author: David Wang
-  isbn: ${random.uuid}
-  description: ${book.name} is good
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/kuan?user=root
+    username: root
+    password: kuanweitsai
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
 

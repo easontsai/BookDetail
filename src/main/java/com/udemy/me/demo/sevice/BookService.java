@@ -12,11 +12,11 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 
-@Service
+@Service/*標記成Service層*/
 public class BookService {
     @Autowired
     private BookRepository bookRepository;
-
+    /*引入接口*/
 
     public List<Book> findAll(){
         return bookRepository.findAll();
